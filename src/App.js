@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useState, useEffect } from "react";
 import Footer from "./footer/footer";
 import Nave from "./navbar/Nav";
@@ -45,6 +46,16 @@ function App() {
           <ScrollBtn />
         </div>
       )}
+=======
+import Index from "./section2/Index";
+import Footer from "./footer/footer";
+
+function App() {
+  return (
+    <div className="App">
+      <Index/>
+      <Footer/>  
+>>>>>>> 0cb1b8a655095719a88a98903b5296b892d423f6
     </div>
   );
 }

@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "my_it_web",
+=======
+  "name": "project",
+>>>>>>> 0cb1b8a655095719a88a98903b5296b892d423f6
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,6 +15,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
     "aos": "^2.3.4",
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
@@ -24,6 +29,17 @@
     "react-type-animation": "^3.2.0",
     "slick-carousel": "^1.8.1",
     "sweetalert2": "^11.12.4",
+=======
+    "bootstrap": "^5.3.3",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.4",
+    "react-dom": "^18.3.1",
+    "react-fast-marquee": "^1.6.5",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.30.2",
+    "react-type-animation": "^3.2.0",
+    "slick-carousel": "^1.8.1",
+>>>>>>> 0cb1b8a655095719a88a98903b5296b892d423f6
     "web-vitals": "^2.1.4"
   },
   "scripts": {
